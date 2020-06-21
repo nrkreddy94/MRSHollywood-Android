@@ -15,6 +15,13 @@ App has a feature to chat with Agent Jessica to get more information about movie
 
 App is not uploaded to google play store that's why this alert is coming during installation. No issues, it doesn't do any harm just proceed to install.
 
+### APK file 
+
+Download the latest version of apk file from below path.
+
+[app-mrshollywood-v3.apk]( https://github.com/nrkreddy94/MRSHollywood_Android/tree/master/app/release )
+
+
 ### Useful Links
 
 [MRSHollywood_Development](https://github.com/nrkreddy94/MRSHollywood_Development)
