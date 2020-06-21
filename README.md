@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-## Movie Recommendation System with Cosine Similiarty
+### Movie Recommendation System with Cosine Similiarty
 
 Homepage | MovieReviews | Chatbot | App Installation
 -------- | ------------ | ------- | ----------- 
@@ -15,4 +15,10 @@ App has a feature to chat with Agent Jessica to get more information about movie
 
 App is not uploaded to google play store that's why this alert is coming during installation. No issues, it doesn't do any harm just proceed to install.
 
+### Useful Links
 
+[MRSHollywood_Development](https://github.com/nrkreddy94/MRSHollywood_Development)
+
+[MRSHollywood_Deployment](https://github.com/nrkreddy94/MRSHollywood_Deployment)
+
+[MRSHollywood_LiveChat](https://github.com/nrkreddy94/MRSHollywood_LiveChat)
