@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-### Movie Recommendation System with Cosine Similiarty
+### Movie Recommendation System with Cosine Similarty
 
 Homepage | MovieReviews 
 -------- | ------------ 
@@ -26,7 +26,7 @@ Download the latest version of apk file from below path.
 [app-mrshollywood-v3.apk]( https://github.com/nrkreddy94/MRSHollywood_Android/tree/master/app/release )
 
 
-### Usefull Links
+### Useful Links
 
 [MRSHollywood_Development](https://github.com/nrkreddy94/MRSHollywood_Development)
 
