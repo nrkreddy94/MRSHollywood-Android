@@ -2,11 +2,15 @@
 
 ### Movie Recommendation System with Cosine Similiarty
 
-Homepage | MovieReviews | Chatbot | App Installation
--------- | ------------ | ------- | ----------- 
- ![Homepage](/homepage.jpeg)   | ![MovieReviews](/moivereviews.jpeg) | ![Chatbot](/chatbot.jpeg) | ![app installation](/installation.jpeg) 
+Homepage | MovieReviews 
+-------- | ------------ 
+ ![Homepage](/homepage.jpeg)   | ![MovieReviews](/moivereviews.jpeg) 
 
 
+ Chatbot | App Installation
+ ------- | ----------- 
+ ![Chatbot](/chatbot.jpeg) | ![app installation](/installation.jpeg) 
+ 
 Implemented android app that recommends top 10 best movies for given a movie name using Machine learning unsupervised technique - collaborative filtering concept.
 
 App has 6 years hollywood movies data from 2013 to 2018.
@@ -22,7 +26,7 @@ Download the latest version of apk file from below path.
 [app-mrshollywood-v3.apk]( https://github.com/nrkreddy94/MRSHollywood_Android/tree/master/app/release )
 
 
-### Useful Links
+### Usefull Links
 
 [MRSHollywood_Development](https://github.com/nrkreddy94/MRSHollywood_Development)
 
